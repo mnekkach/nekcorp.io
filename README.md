@@ -3,3 +3,5 @@
 # Description
 
 Static web page deployed with [Netlify](https://www.netlify.com/).
+
+[https://nekcorp.netlify.com/](https://nekcorp.netlify.com/)
